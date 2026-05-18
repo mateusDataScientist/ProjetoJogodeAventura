@@ -9,7 +9,7 @@
     Mateus Fernandes de Araujo - 10731058
     Pedro Daniel Reis Souza - 10443566
 
-    Link para vídeo do Youtube: 
+    Link para vídeo do Youtube: https://youtu.be/xZTkAuj18ug
 */
 
 // Estrutura de dados do item disponível de cada fase
